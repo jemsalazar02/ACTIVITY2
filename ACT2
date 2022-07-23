@@ -1,0 +1,82 @@
+<! DOCTYPE html>
+<head>
+<title></title>
+</head>
+<center>
+<body>
+  <p style="color:#ff073a;font-size: 25px";>MY SECOND ACTIVITY</p>
+</body>
+
+<body>
+  <p style="color:#240C04";>YOUTUBE- Ito ang napili ko dahil ito ay nakakatulong sa akin sa paghahanap ng mga impormasyon na maggamit ko sa aking pag aaral.Ito din ay isa sa mga ginagamit ngayon dahil lahat nandito na.Marami ka rin mapapanuod na impormasyon kahit ito ay mga sinauna pa.Makakatulong din ito sa pag gawa ng mga research at kung ano pa mga pagkuha ng ideya.Hindi lang impormasyon ang maaaring makuha marami pang pwede itong pag gamitan.</p>
+</body>
+
+<body>
+  <p style="color:#441B11";>TWITTER- Ito ay napili ko dahil dito ko nalalaman ang mga trending na napapanahon.Mapabalita man lokal o international ay pwedeng malaman.Ang mga update sa mga nangyayari sa ibat ibang mundo ay nandito rin.Makikita rin ang mga ibat ibang trending na maaaring malaman.Dito rin ako naglalagay ng mga rants ko sa buhay o kaya pag natotoxican nako sa lahat kasi pwede mo itong gawing pribado.</p>
+</body>
+   
+        
+<body>
+  <p style="color:#643126";>TIKTOK-Ito ay napili ko dahil dito ko napapanuod ang mga paborito kong panuorin.At dahil ito rin ay nakaka entertain kaya isa ito sa mga paborito kong platform.Marami rin impormasyon ang pwedeng makuha dito tulad ng pagluluto o kahit anong tutorial na gusto mong malaman.Marami din pwedeng mapanuod dito kahit ito ay ibang bansa.Kaya isa ito sa mga platform na nakakatulong sakin at nakakapag pasaya.</p>
+</body>
+
+
+<body>
+  <p style="color:#844C44";>FACEBOOK-Ito ay napili ko dahil sa ito ay nakakatulong sakin makipag communicate sa aking pamilya at kaibigan ganon na din sa pag aaral.Dito rin ako naglalagay ng mga picture at kung ano pang mga ganap sa aking buhay.Marami ka rin mapapamanuod dito at ito rin ay nakaka entertain.Maari ka rin dito mag benta ng mga bagay o pagkain gamit ang marketplace.Kaya isa ito sa pinaka magandang platform para sakin.</p>
+</body>
+
+  
+<body>
+  <p style="color:#A46F69";>GMAIL-Ito ay napili ko dahil sa isa ito sa nakakatulong ngayon sakin lalo na sa pag aaral.Kung dati ay parang walang sense ito sakin pero simula nung naging online class na nagkaron ito ng halaga sakin.Kaya kada pag gising ko ay isa na ito sa mga chinecheck ko daily.Isa na din ito sa mga platform na importante para sakin dahil andito ang aking impormasyon.Kaya para sakin ito ay malaking tulong na platform lalo na sa ngayon.</h2></p>
+</body>
+
+<body>
+<html>
+    
+ <body style="background-color:#CBD5F7;">
+  </body>
+
+  </html>
+<form>
+<center>
+    <table style="border: 1px solid black; width: 50%; margin-left: auto;
+    margin-right: auto; margin-top: 2rem;">
+        <tr>
+        <th rowspan="6" style="border: 1px solid black; color: #FF9800; font-size: 25px;">Search</th>
+          <th colspan="2" style="border: 1px solid black; color: #OOBBDC; font-size: 25px;">Browser</th>
+          <th style="border: 1px solid black; color: #6E5160; font-size: 25px;">Website</th>
+          <th style="border: 1px solid black; color: #009688; font-size: 25px;">Links</th>
+        </tr>
+         <tr>
+            <td style="border: 1px solid black; color: #FF00FF; color: #cc7479; font-size: 20px;">Chrome</td>
+            <td style="border: 1px solid black; color: #FF00FF; color: #cc7479; font-size: 20px;">Firefox</td>
+            <td style="border: 1px solid black; color: #FF00FF; font-size: 20px;">YOUTUBE</td>
+            <td style="border: 1px solid black; color: #FF00FF; font-size: 20px;"><a href="https://www.youtube.com/">https://www.youtube.com/</a></td>
+          </tr>
+          <tr>
+           <td style="border: 1px solid black; color:  #FF0000; color: #787cbb; font-size: 20px;">Chrome</td>
+            <td style="border: 1px solid black; color: #FF0000; color: #787cbb; font-size: 20px;">Firefox</td>
+            <td style="border: 1px solid black; color: #FF0000; font-size: 20px;">TWITTER</td>
+            <td style="border: 1px solid black; color: #FF0000; font-size: 20px;"><a href="https://www.twitter.com/">https://www.twitter.com/</a></td>
+          </tr>
+          <tr>
+          <td style="border: 1px solid black; color: #00FF00; color: #ed8240; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #00FF00; color: #ed8240; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #00FF00; font-size: 20px;">TIKTOK</td>
+          <td style="border: 1px solid black; color: #00FF00; font-size: 20px;"><a href="https://m.tiktok.com/">https://m.tiktok.com/</a></td>
+          </tr>
+          <tr>
+          <td style="border: 1px solid black; color: #203239; color: #614947; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #203239; color: #614947; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #009688; font-size: 20px;">FACEBOOK</td>
+          <td style="border: 1px solid black; color: #009688; font-size: 20px;"><a href="https://www.facebook.com/">https://https://www.facebook.com/</a></td>
+          </tr>
+          <tr>
+
+          <td style="border: 1px solid black; color: #00FFFF; color: #D14734; font-size: 20px;">Chrome</td>
+          <td style="border: 1px solid black; color: #00FFFF; color: #D14734; font-size: 20px;">Firefox</td>
+          <td style="border: 1px solid black; color: #00FFFF; font-size: 20px;">GMAIL</td>
+          <td style="border: 1px solid black; color: #00FFFF; font-size: 20px;"><a href="https://www.google.com/intl/fil/gmail/about/">https://www.google.com/intl/fil/gmail/about</a></td>
+          </tr>
+</table>
+</form>
